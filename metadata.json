@@ -1,0 +1,5 @@
+{
+  "name": "Gestionnaire de Finances Personnelles",
+  "description": "Une application pour gérer vos revenus, dépenses et budgets, avec une prévision de trésorerie sur 12 mois. Suivez l'évolution de vos comptes bancaires et de vos réserves d'argent, anticipez vos finances futures et effectuez des rapprochements bancaires.",
+  "requestFramePermissions": []
+}
